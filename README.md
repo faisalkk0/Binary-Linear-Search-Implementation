@@ -64,6 +64,6 @@ Working on this project was a rewarding experience, as it allowed me to dive dee
 
 Overall, this project improved my problem-solving skills by requiring me to think critically about how to *optimize searching operations* and how to handle different types of data efficiently.
 
-You can view the project and details about its implementation on my https://www.linkedin.com/in/your-linkedin-profile.
+You can view the project and details about its implementation on my https://www.linkedin.com/posts/faisal-khurshid-31b960347_softwaredevelopment-algorithms-learningbydoing-activity-7286617110569443331-Us64?utm_source=share&utm_medium=member_desktop.
 
 ---
